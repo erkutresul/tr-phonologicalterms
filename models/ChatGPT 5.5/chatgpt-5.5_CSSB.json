@@ -1,0 +1,596 @@
+[
+    {
+        "question": "Aşağıdakilerden hangisi ötümlü, sürekli, akıcı ve çarpmalı bir sestir?",
+        "choices": [
+            "/m/",
+            "/r/",
+            "/l/",
+            "/ç/",
+            "/ş/"
+        ],
+        "answer": "/r/"
+    },
+    {
+        "question": "Aşağıdakilerin hangisinde /a/ ünlüsünün özellikleri tam ve doğru olarak verilmiştir?",
+        "choices": [
+            "geniş-düz-ön",
+            "dar-düz-art",
+            "dar-düz-ön",
+            "geniş-yuvarlak-ön",
+            "geniş-düz-art"
+        ],
+        "answer": "geniş-düz-art"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi bir art damak sesidir?",
+        "choices": [
+            "/e/",
+            "/i/",
+            "/o/",
+            "/ö/",
+            "/ü/"
+        ],
+        "answer": "/o/"
+    },
+    {
+        "question": "Aşağıdakilerin hangisinde ötümlülük-ötümsüzlük uyumu kuralına uymayan bir yazım vardır?",
+        "choices": [
+            "seçgin",
+            "ağaçta",
+            "işçi",
+            "başka",
+            "içten"
+        ],
+        "answer": "seçgin"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde ünsüz tekleşmesi meydana gelmemiştir?",
+        "choices": [
+            "kere",
+            "ama",
+            "dert",
+            "hamam",
+            "çile"
+        ],
+        "answer": "dert"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi /geniz n/ sesinin, yine bir geniz ünsüzü ama aynı zamanda dudak ünsüzü de olan /m/ sesine değişmesi ile oluşmamıştır?",
+        "choices": [
+            "komşu",
+            "gömlek",
+            "domuz",
+            "demir",
+            "omurga"
+        ],
+        "answer": "demir"
+    },
+    {
+        "question": "öyük>höyük gelişmesinde aşağıdaki ses olaylarından hangisi bulunmaktadır?",
+        "choices": [
+            "ünsüz türemesi",
+            "ötümlüleşme",
+            "artdamaksıllaşma",
+            "ikizleşme",
+            "gerileyici benzeşme"
+        ],
+        "answer": "ünsüz türemesi"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi gerileyici benzeşme sonucu oluşmuştur?",
+        "choices": [
+            "haydar",
+            "zalim",
+            "malum",
+            "sarhoş",
+            "haber"
+        ],
+        "answer": "sarhoş"
+    },
+    {
+        "question": "Aşağıda verilen sözcüklerin hangisinde bir ünsüz benzeşmesi görülmez?",
+        "choices": [
+            "yannış",
+            "pembe",
+            "kollar",
+            "tambur",
+            "amber"
+        ],
+        "answer": "kollar"
+    },
+    {
+        "question": "Aşağıdaki durum eki almış sözcüklerin hangisinde ünlülerin sıfırla nöbetleşmesi olayına rastlanmaz?",
+        "choices": [
+            "gönlüne",
+            "burnu",
+            "oğlu",
+            "derdi",
+            "omzunda"
+        ],
+        "answer": "derdi"
+    },
+    {
+        "question": "küçük>küçücük gelişmesinde aşağıdaki ses olaylarından hangisi görülür?",
+        "choices": [
+            "ünlü türemesi",
+            "hece düşmesi",
+            "göçüşme",
+            "ünsüz benzeşmesi",
+            "k~Ø nöbetleşmesi"
+        ],
+        "answer": "k~Ø nöbetleşmesi"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi ünsüzlerin oluşum yerlerine göre sınıflandırılmasında bir ölçüt değildir?",
+        "choices": [
+            "çift dudak ünsüzleri",
+            "ön damak ünsüzleri",
+            "art damak ünsüzler",
+            "alt dudak ünsüzleri",
+            "gırtlak ünsüzleri"
+        ],
+        "answer": "alt dudak ünsüzleri"
+    },
+    {
+        "question": "Aşağıdakilerin hangisinde /u/ ünlüsünün özellikleri tam ve doğru olarak verilmiştir?",
+        "choices": [
+            "dar-yuvarlak-ön",
+            "geniş-düz-art",
+            "dar-yuvarlak-art",
+            "geniş-düz-ön",
+            "geniş-yuvarlak-ön"
+        ],
+        "answer": "dar-yuvarlak-art"
+    },
+    {
+        "question": "Art ve ön damak biçimleri olan ünsüzler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+        "choices": [
+            "g, k, l",
+            "c, v, t",
+            "z, r, t",
+            "ğ, g, k",
+            "n, m, p"
+        ],
+        "answer": "g, k, l"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde önlük-artlık uyumunun olmaması tarihi süreçte geçirdiği değişimlerle ilgili değildir?",
+        "choices": [
+            "anne",
+            "şişman",
+            "kardeş",
+            "inan-",
+            "imkân"
+        ],
+        "answer": "imkân"
+    },
+    {
+        "question": "Aşağıdakilerin hangisinde /i/ ünlüsünün özellikleri tam ve doğru olarak verilmiştir?",
+        "choices": [
+            "dar-yuvarlak-ön",
+            "geniş-düz-art",
+            "dar-yuvarlak-art",
+            "geniş-düz-ön",
+            "dar-düz-ön"
+        ],
+        "answer": "dar-düz-ön"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi yuvarlaklaşma sonucunda oluşmamıştır?",
+        "choices": [
+            "toprak",
+            "mümkün",
+            "müdür",
+            "müftü",
+            "tövbe"
+        ],
+        "answer": "toprak"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi ek aldığında sıfırla nöbetleşmez?",
+        "choices": [
+            "kayın (akrabalık)",
+            "kayın (ağaç)",
+            "oğul",
+            "hacim",
+            "uğur"
+        ],
+        "answer": "uğur"
+    },
+    {
+        "question": "Aşağıdaki alıntı sözcüklerden hangisi Türkçede ünlü ile başlayan bir ek alsa da ötümlüleşme gerçekleşmez?",
+        "choices": [
+            "cenk",
+            "metot",
+            "hap",
+            "cep",
+            "kitap"
+        ],
+        "answer": "cenk"
+    },
+    {
+        "question": "Aşağıdakilerin hangisinde /ü/ ünlüsünün özellikleri tam ve doğru verilmiştir?",
+        "choices": [
+            "geniş-yuvarlak-art",
+            "dar-yuvarlak-art",
+            "geniş-düz-art",
+            "geniş-düz-ön",
+            "dar-yuvarlak-ön"
+        ],
+        "answer": "dar-yuvarlak-ön"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi çift-dudak ünsüzüdür?",
+        "choices": [
+            "/b/",
+            "/d/",
+            "/n/",
+            "/s/",
+            "/t/"
+        ],
+        "answer": "/b/"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde /geniz n/ sesi (ñ) vardır?",
+        "choices": [
+            "bilgin",
+            "sana",
+            "bitkin",
+            "dizgin",
+            "olgun"
+        ],
+        "answer": "olgun"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi Türkçedeki ses olaylarından aykırılaşmaya örnektir?",
+        "choices": [
+            "kapıg>kapı",
+            "algalı>alalı",
+            "yalgan>yalan",
+            "attar>aktar",
+            "yolga>yola"
+        ],
+        "answer": "attar>aktar"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi bir diş-damak ünsüzü değildir?",
+        "choices": [
+            "/ş/",
+            "/j/",
+            "/c/",
+            "/g/",
+            "/ç/"
+        ],
+        "answer": "/g/"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi ünlülerin sınıflandırılmasında kullanılan ölçütlerden biri değildir?",
+        "choices": [
+            "genişlik",
+            "yuvarlaklık",
+            "ötümlülük",
+            "uzunluk",
+            "darlık"
+        ],
+        "answer": "ötümlülük"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde göçüşme olayı vardır?",
+        "choices": [
+            "tandır",
+            "aktar",
+            "patlıcan",
+            "muşamba",
+            "nalet"
+        ],
+        "answer": "patlıcan"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi söz içinde /n/ türemesi görülen Türkçe bir sözcüktür?",
+        "choices": [
+            "ortanca",
+            "kalınca",
+            "gülünce",
+            "birinci",
+            "serince"
+        ],
+        "answer": "birinci"
+    },
+    {
+        "question": "/zan>zannet-/ örneğinde görülen ses olayı aşağıdaki sözcüklerin hangisinde vardır?",
+        "choices": [
+            "katetmek",
+            "ahdetmek",
+            "emretmek",
+            "reddetmek",
+            "devretmek"
+        ],
+        "answer": "reddetmek"
+    },
+    {
+        "question": "Aşağıdaki ünlülerden hangisi Türkçede bulunmaz?",
+        "choices": [
+            "art ünlü",
+            "ağız ünlüsü",
+            "geniz ünlüsü",
+            "ön ünlü",
+            "düz ünlü"
+        ],
+        "answer": "geniz ünlüsü"
+    },
+    {
+        "question": "Aşağıdakilerin hangisinde /o/ ünlüsünün özellikleri tam ve doğru olarak verilmiştir?",
+        "choices": [
+            "dar-yuvarlak-ön",
+            "geniş-düz-art",
+            "dar-yuvarlak-art",
+            "geniş-düz-ön",
+            "geniş-yuvarlak-art"
+        ],
+        "answer": "geniş-yuvarlak-art"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde düzlük-yuvarlaklık uyumu gerçekleşmiştir?",
+        "choices": [
+            "yavru",
+            "tapu",
+            "okul",
+            "kabuk",
+            "çamur"
+        ],
+        "answer": "çamur"
+    },
+    {
+        "question": "Türkçede ikincil uzunlukların ortaya çıkış nedeni aşağıdakilerden hangisidir?",
+        "choices": [
+            "yabancı dillerin etkisi",
+            "iki ünlünün yan yana gelmesi",
+            "ünlü türemesi",
+            "ünsüz ikizleşmesi",
+            "/ğ/ ünsüzünün etkisi"
+        ],
+        "answer": "/ğ/ ünsüzünün etkisi"
+    },
+    {
+        "question": "Aşağıdaki ünsüzlerden hangisi yarı ünlüdür?",
+        "choices": [
+            "/y/",
+            "/r/",
+            "/l/",
+            "/ğ/",
+            "/h/"
+        ],
+        "answer": "/y/"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi ünlü daralması ile oluşmamıştır?",
+        "choices": [
+            "çıyan",
+            "yeni",
+            "usan-",
+            "uyan-",
+            "dış"
+        ],
+        "answer": "dış"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi ünsüzlerde görülen ses olaylarından biri değildir?",
+        "choices": [
+            "aykırılaşma",
+            "türeme",
+            "ikizleşme",
+            "göçüşme",
+            "düzleşme"
+        ],
+        "answer": "düzleşme"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi ötümlü bir ünsüzdür?",
+        "choices": [
+            "/f/",
+            "/h/",
+            "/n/",
+            "/p/",
+            "/ş/"
+        ],
+        "answer": "/n/"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisinde düzlük-yuvarlaklık uyumu gerçekleşmemiştir?",
+        "choices": [
+            "oda",
+            "ada",
+            "odun",
+            "uçak",
+            "kabuk"
+        ],
+        "answer": "odun"
+    },
+    {
+        "question": "Nazal geniz ünsüzü aşağıdakilerden hangisidir?",
+        "choices": [
+            "/h/",
+            "/m/",
+            "/ğ/",
+            "/k/",
+            "/n/"
+        ],
+        "answer": "/m/"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi ünsüzlerin boğumlanma noktalarıyla ilgilidir?",
+        "choices": [
+            "düzlük-yuvarlaklık uyumu",
+            "önlük-artlık uyumu",
+            "ötümlülük-ötümsüzlük uyumu",
+            "ses-hece uyumu",
+            "ünlü-ünsüz uyumu"
+        ],
+        "answer": "ötümlülük-ötümsüzlük uyumu"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde tarihi süreçte ön damaksıllaşma gerçekleşmiştir?",
+        "choices": [
+            "dış",
+            "iyi",
+            "yeni",
+            "tepe",
+            "büyük"
+        ],
+        "answer": "büyük"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerin hangisinde daralma yazıya da yansımıştır?",
+        "choices": [
+            "yiyecek",
+            "bekliyerek",
+            "başlıyan",
+            "anlıyacak",
+            "ağlıyarak"
+        ],
+        "answer": "başlıyan"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi yanlış yazılmıştır?",
+        "choices": [
+            "kollektif",
+            "laboratuvar",
+            "asfalt",
+            "doküman",
+            "orijinal"
+        ],
+        "answer": "kollektif"
+    },
+    {
+        "question": "Aşağıdakilerin hangisi önlük-artlık uyumu olmamasına rağmen hece uyumu olan Türkçe bir sözcüktür?",
+        "choices": [
+            "kapılardan",
+            "baştakiler",
+            "evlerimizden",
+            "gölgelerini",
+            "yoldalar"
+        ],
+        "answer": "yoldalar"
+    },
+    {
+        "question": "Geniş /a/, /e/, /o/, /ö/ ünlülerinin çeşitli nedenlerle dar ünlüye dönüşmesine _____ denir. Cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "choices": [
+            "öndamaksıllaşma",
+            "ünlü uzaması",
+            "ünlü daralması",
+            "yuvarlaklaşma",
+            "artdamaksıllaşma"
+        ],
+        "answer": "ünlü daralması"
+    },
+    {
+        "question": "Aşağıdaki sözcüklerden hangisi tarihi süreçte düzleşme ile oluşmuş Türkçe bir sözcüktür?",
+        "choices": [
+            "hamur",
+            "kapı",
+            "nöbet",
+            "zalim",
+            "tövbe"
+        ],
+        "answer": "kapı"
+    },
+    {
+        "question": "Türkçede söz sonunda iki ünsüz bulunabilmesi için birincinin _____ veya _____ olması gerekir. Cümlede boş bırakılan yerleri aşağıdakilerden hangisi doğru olarak tamamlar?",
+        "choices": [
+            "ötümlü-ötümlü",
+            "akıcı-sızıcı",
+            "sürekli-akıcı",
+            "patlamalı-sızıcı",
+            "süreksiz-ötümsüz"
+        ],
+        "answer": "sürekli-akıcı"
+    },
+    {
+        "question": "Aşağıdakilerden hangisi süreksiz ünsüzlerden biridir?",
+        "choices": [
+            "/d/",
+            "/f/",
+            "/ğ/",
+            "/s/",
+            "/v/"
+        ],
+        "answer": "/d/"
+    },
+    {
+        "question": "Akciğerlerden gelen havanın telaffuz organlarında tam olarak engellenmesi ve daha sonra serbest bırakılması sonucu oluşan ses aşağıdakilerden hangisidir?",
+        "choices": [
+            "ötümlü ünsüz",
+            "ötümsüz ünsüz",
+            "geniz ünsüzü",
+            "sürekli ünsüz",
+            "patlayıcı ünsüz"
+        ],
+        "answer": "patlayıcı ünsüz"
+    },
+    {
+        "question": "Türkçede ünlüyle biten bir sözcükten sonra ünlüyle başlayan bir sözcük gelmesi durumunda, ilk sözcüğün sonundaki ünlü ile ikinci sözcüğün başındaki ünlü kaynaşabilmektedir. Aşağıdakilerden hangisi kaynaşma sonucu oluşmuş bir sözcük değildir?",
+        "choices": [
+            "nasıl",
+            "böyle",
+            "güllaç",
+            "kahvaltı",
+            "pazar"
+        ],
+        "answer": "pazar"
+    },
+    {
+        "question": "Eski Türkçedeki /köñlek/ sözcüğünün günümüz Türkçesinde /gömlek/ olması aşağıdaki ses olaylarından hangisiyle açıklanabilir?",
+        "choices": [
+            "dudaksıllaşma",
+            "aykırılaşma",
+            "göçüşme",
+            "kaynaşma",
+            "benzeşme"
+        ],
+        "answer": "benzeşme"
+    },
+    {
+        "question": "Eski Türkçedeki /közel/ sözcüğünün günümüz Türkçesinde /güzel/ olması aşağıdaki ses olaylarından hangisiyle ilgilidir?",
+        "choices": [
+            "ünsüz türemesi",
+            "dudaksıllaşma",
+            "aykırılaşma",
+            "ünlü uzaması",
+            "ünlü daralması"
+        ],
+        "answer": "dudaksıllaşma"
+    },
+    {
+        "question": "Aşağıdaki ünsüzlerden hangisi Türkçe kökenli bir sözcüğün hiçbir yerinde bulunamaz?",
+        "choices": [
+            "/h/",
+            "/j/",
+            "/f/",
+            "/c/",
+            "/ğ/"
+        ],
+        "answer": "/j/"
+    },
+    {
+        "question": "/kelür ben>gelürven>gelürem>gelürüm>gelirim/ değişim sürecinde aşağıdaki ses olaylarından hangisi yoktur?",
+        "choices": [
+            "yuvarlaklaşma",
+            "düzleşme",
+            "ünsüz düşmesi",
+            "ötümlüleşme",
+            "ünsüz tekleşmesi"
+        ],
+        "answer": "ünsüz tekleşmesi"
+    },
+    {
+        "question": "/yaprak>yarpak, ekşi>eşki, yalnız>yalnız, köprü>körpü/ örneklerinde görülen ses olayı hangisi ile açıklanmaktadır?",
+        "choices": [
+            "aykırılaşma",
+            "nöbetleşme",
+            "erime",
+            "göçüşme",
+            "ikizleşme"
+        ],
+        "answer": "göçüşme"
+    }
+]
